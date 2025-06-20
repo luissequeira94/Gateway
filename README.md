@@ -67,7 +67,7 @@ Example Logs
 ├── config.ini          # Configuration file
 └── tunnel_$.txt        # Log file (created at runtime if needed)
 ```
-## ⚙️ Features
+## ⚙️ Setup as a Service
 To setup as Windows Service, use NSSM - https://nssm.cc
 
 ## 📜 License
