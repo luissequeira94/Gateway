@@ -6,7 +6,7 @@ A lightweight Python Gateway that listens for incoming traffic on a specified IP
 
 ## ⚙️ Features
 
-- 📄 Logs to file or prints to terminal
+- 📄 Logs to file
 - 🧩 Configurable via `config.ini`
 - 🧵 Threaded handling for tunnels
 - 📡 Routes all traffic on a from/to specified ports
@@ -67,6 +67,8 @@ Example Logs
 ├── config.ini          # Configuration file
 └── tunnel_$.txt        # Log file (created at runtime if needed)
 ```
+## ⚙️ Features
+To setup as Windows Service, use NSSM - https://nssm.cc
 
 ## 📜 License
 MIT License. See LICENSE file for details.
