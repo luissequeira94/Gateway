@@ -48,7 +48,7 @@ log_file = tunnel_1.log
 ## 🌐 Execution
 
 ```bash
-python Gateway.py
+python gateway.py
 ```
 
 Example Logs
@@ -71,7 +71,7 @@ Example Logs
 To setup as Windows Service, use NSSM - https://nssm.cc
 
 ## 📜 License
-MIT License. See LICENSE file for details.
+Apache License. See LICENSE file for details.
 
 ## 🤝 Contributing
 Pull requests are welcome.  
